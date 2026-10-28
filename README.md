@@ -91,7 +91,7 @@ agent.print_status()
 ```
 output:
 
-OneDrive/Pictures/Screenshots/Screenshot 2026-10-28 081803.png
+![alt text](image.png)
 
 result:
 
