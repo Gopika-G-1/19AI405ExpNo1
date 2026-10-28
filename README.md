@@ -87,8 +87,12 @@ agent.perform_action("suck")
 agent.print_status()
 agent.perform_action("nothing")
 agent.print_status()
+
 ```
-output
-![alt text](<Screenshot 2026-10-28 081803.png>)
-result
+output:
+
+OneDrive/Pictures/Screenshots/Screenshot 2026-10-28 081803.png
+
+result:
+
 the given program runs succesfully.
