@@ -40,8 +40,8 @@
 <p>Treat unhealthy patients in each room. And check for the unhealthy patients in random room</p>
 <h3>STEP 5:</h3>
 <p>Measure the performance parameters: For each treatment performance incremented, for each movement performance decremented</p>
-<h3>program:</h3>
-```
+<h3>Program:</h3>
+
 class VacuumCleanerAgent:
     def __init__(self):
         self.location = "A"
@@ -80,7 +80,6 @@ class VacuumCleanerAgent:
 
 
 agent = VacuumCleanerAgent()
-
 agent.perform_action("left")
 agent.print_status()
 agent.perform_action("suck")
@@ -88,11 +87,8 @@ agent.print_status()
 agent.perform_action("nothing")
 agent.print_status()
 
-```
-output:
+OUTPUT:
 
-![alt text](image.png)
+<img width="760" height="355" alt="Screenshot 2026-10-28 081717" src="https://github.com/user-attachments/assets/145a88d4-ed35-4c2a-a2d9-28eefa17b2cc" />
 
-result:
-
-the given program runs succesfully.
+RESULT: Thus the developing AI agent with PEAS description was implemented using python program.
